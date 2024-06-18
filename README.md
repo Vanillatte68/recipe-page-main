@@ -9,9 +9,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -32,5 +29,4 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Roselin Y](https://www.frontendmentor.io/profile/Vanillatte68)
